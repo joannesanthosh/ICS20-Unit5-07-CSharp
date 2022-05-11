@@ -21,10 +21,10 @@ class Program
          
         //Process
         for (int counter = 1; counter <= number; counter++) {
-    total += counter;
-  }
+        total += counter;
+        }
         Console.WriteLine  ("The answer is: " + total);
-         Console.WriteLine("\nDone.");
-    }
+        Console.WriteLine("\nDone.");
+    }  
   }
 }
